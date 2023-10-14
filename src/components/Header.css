@@ -1,0 +1,9 @@
+.header {
+    background: linear-gradient(white, black);
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+}
